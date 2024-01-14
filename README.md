@@ -15,7 +15,7 @@ Thanks for stopping by my profile, and let's ignite some sparks together!
 
 ### Tech Expertise 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,express,nodejs,js,ts,py,tailwind&theme=dark)](https://xeleron.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,express,astro,nodejs,js,ts,py,tailwind&theme=dark)](https://xeleron.dev)
 
 ### Tools In My Arsenal 🛠️
 
