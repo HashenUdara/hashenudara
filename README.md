@@ -7,9 +7,6 @@ I thrive as a full-stack developer, channeling my passion into creating remarkab
 
 As a programming enthusiast, I have an insatiable appetite for knowledge and love to gather insights along my journey. Additionally, my design-focused approach ensures that I bring a keen sense of aesthetics to my projects, creating user-friendly experiences.
 
-Feel free to explore some of my projects and repositories on this profile. If you have any questions, feedback, or just want to connect, don't hesitate to reach out. I'm open to collaboration and always on the lookout for new opportunities.
-
-Thanks for stopping by my profile, and let's ignite some sparks together!
 
 
 
@@ -22,3 +19,9 @@ Thanks for stopping by my profile, and let's ignite some sparks together!
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,webflow,vercel,postman,git,prisma,planetscale,docker,aws,gcp,azure&theme=dark)](https://xeleron.dev)
 
 
+
+
+
+Feel free to explore some of my projects and repositories on this profile. If you have any questions, feedback, or just want to connect, don't hesitate to reach out. I'm open to collaboration and always on the lookout for new opportunities.
+
+Thanks for stopping by my profile, and let's ignite some sparks together!
