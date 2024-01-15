@@ -19,6 +19,6 @@ Thanks for stopping by my profile, and let's ignite some sparks together!
 
 ### Tools In My Arsenal 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,postman,git,prisma,planetscale,webflow,docker,aws,gcp,azure&theme=dark)](https://xeleron.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,webflow,vercel,postman,git,prisma,planetscale,docker,aws,gcp,azure&theme=dark)](https://xeleron.dev)
 
 
