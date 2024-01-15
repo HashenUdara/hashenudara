@@ -22,6 +22,6 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
 
 
 
-Feel free to explore some of my projects and repositories on this profile. If you have any questions, feedback, or just want to connect, don't hesitate to reach out. I'm open to collaboration and always on the lookout for new opportunities.
+Feel free to explore some of my projects and repositories on this profile. If you have any questions, or feedback, or just want to connect, don't hesitate to reach out. I'm open to collaboration and always on the lookout for new opportunities.
 
-Thanks for stopping by my profile, and let's ignite some sparks together!
+Thanks for stopping by my profile, and let's ignite some sparks together! 
