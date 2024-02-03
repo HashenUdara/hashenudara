@@ -16,7 +16,7 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
 
 ### Tools In My Arsenal 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,webflow,vercel,postman,git,prisma,planetscale,docker,aws,gcp,azure&theme=dark)](https://xeleron.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,github,vscode,figma,webflow,postman,git,prisma,planetscale,docker,aws,gcp,azure&theme=dark)](https://xeleron.dev)
 
 
 
