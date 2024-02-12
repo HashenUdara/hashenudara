@@ -1,5 +1,5 @@
 ## Hey there, I'm Hashen  👋🏻 
-#### Co-founder of [Xeleron](https://xeleron.dev)
+#### Co-founder of [xleron](https://xeleron.dev)
 A design-focused developer with a strong eye for aesthetics and a passion for crafting clean and user-friendly web applications using technologies like Next.js, React, Tailwindcss &  Webflow.
 
 ## Who am I 👀
