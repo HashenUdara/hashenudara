@@ -12,7 +12,7 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
 
 ### Tech Expertise 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,express,nodejs,js,ts,py&theme=dark)](https://xeleron.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vue,express,nodejs,js,py&theme=dark)](https://xeleron.dev)
 
 ### Tools In My Arsenal 🛠️
 
