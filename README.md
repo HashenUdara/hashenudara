@@ -9,10 +9,9 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
 
 
 
+## I'm really enjoying
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark)](https://xeleron.dev)
 
-### Tech Expertise 🧑🏻‍💻
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vue,express,nodejs,js,py&theme=dark)](https://xeleron.dev)
 
 ### Tools In My Arsenal 🛠️
 
