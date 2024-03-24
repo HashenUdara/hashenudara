@@ -9,7 +9,7 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
 
 
 
-## I'm really enjoying
+## I'm really enjoying modern tech 🧑🏻‍💻
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark)](https://xeleron.dev)
 
 
