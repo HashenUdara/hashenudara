@@ -1,9 +1,26 @@
-<h1 align="center">Hi 👋, I'm Hashen Udara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+## Hey there, I'm Hashen  👋🏻 
+#### Co-founder  [@xleron](https://xleron.io)
+A design-focused developer with a strong eye for aesthetics and a passion for crafting interactive and user-friendly web using technologies like Next.js, React, TailwindCSS &  Webflow.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Who am I 👀
+I thrive as a front-end developer, channeling my passion into creating remarkable web applications. My expertise lies in leveraging  Next.js, React, & Node.js to build, fast, & scalable websites. I am committed to continuous learning and skill improvement within these domains, always striving to stay at the forefront of industry trends.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+As a programming enthusiast, I have an insatiable appetite for knowledge and love to gather insights along my journey. Additionally, my design-focused approach ensures that I bring a keen sense of aesthetics to my projects, creating user-friendly experiences.
+
+
+
+## I'm really enjoying modern tech 🧑🏻‍💻
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark)](https://xleron.io)
+
+
+### Tools In My Arsenal 🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,github,vscode,figma,webflow,postman,git,prisma,planetscale,docker,aws,gcp,azure&theme=dark)](https://xleron.io)
+
+
+
+
+
+Feel free to explore some of my projects and repositories on this profile. If you have any questions, or feedback, or just want to connect, don't hesitate to reach out. I'm open to collaboration and always on the lookout for new opportunities.
+
+Thanks for stopping by my profile, and let's ignite some sparks together! 
