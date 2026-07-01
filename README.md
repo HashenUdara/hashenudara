@@ -1,26 +1,44 @@
-## Hey there, I'm Hashen  👋🏻 
-#### Co-founder  [@xleron](https://xleron.io)
-A design-focused developer with a strong eye for aesthetics and a passion for crafting interactive and user-friendly web using technologies like Next.js, React, TailwindCSS &  Webflow.
+## Hey there, I'm Hashen 👋🏻
+
+<img width="1584" height="396" alt="LinkedIn cover - 4 (1)" src="https://github.com/user-attachments/assets/781a456f-d6fb-463d-b5a7-95db8986df28" />
+
+#### Co-Founder of **[Aelus](https://aelus.io)** · building around AI, automation, software, and business systems
+
+I'm a builder with a design-heavy background and a strong interest in how software can make real business work less messy.
+
+I started out mostly in modern web. Next.js, React, TypeScript, TailwindCSS, Webflow, all the usual stuff. I still care a lot about clean interfaces and good user experience, but these days I'm more interested in the full system behind the product.
+
+Right now, I'm building **Aelus**, an AI automation company focused on practical automation for businesses. Not just demos or shiny AI experiments. I like working on systems that connect the dots between operations, software, workflows, and people.
 
 ## Who am I 👀
-I thrive as a front-end developer, channeling my passion into creating remarkable web applications. My expertise lies in leveraging  Next.js, React, & Node.js to build, fast, & scalable websites. I am committed to continuous learning and skill improvement within these domains, always striving to stay at the forefront of industry trends.
 
-As a programming enthusiast, I have an insatiable appetite for knowledge and love to gather insights along my journey. Additionally, my design-focused approach ensures that I bring a keen sense of aesthetics to my projects, creating user-friendly experiences.
+I enjoy building things that feel simple on the outside but have solid thinking underneath.
 
+My background is mostly web, product, and design, but I keep moving more toward system architecture, automation, AI workflows, and business operations. I like understanding how a process works, where it breaks, and how software can make it cleaner.
 
+I care about taste, clarity, speed, and usefulness. A product can be technically impressive and still feel bad to use. I try to avoid that.
 
-## I'm really enjoying modern tech 🧑🏻‍💻
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark)](https://xleron.io)
+## What I'm focused on 🧑🏻‍💻
 
+* Building **Aelus**
+* Practical AI automation for business operations
+* Clean product thinking and system design
+* Modern web experiences
+* Internal tools, workflow systems, and automation layers
+* Getting better as a founder, builder, and operator
 
-### Tools In My Arsenal 🛠️
+## Tech I usually work with
 
-[![My Skills](https://skillicons.dev/icons?i=vercel,github,vscode,figma,webflow,postman,git,prisma,planetscale,docker,aws,gcp,azure&theme=dark)](https://xleron.io)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,postgres,docker,vercel,figma\&theme=dark)](https://skillicons.dev)
 
+I care less about collecting tools and more about using the right ones to build clean, useful systems.
 
+## A bit more about me
 
+I like building at the point where design, engineering, automation, and business all meet.
 
+Sometimes that means a clean interface. Sometimes it means a backend system nobody sees. Sometimes it means figuring out why a workflow is broken before writing any code.
 
-Feel free to explore some of my projects and repositories on this profile. If you have any questions, or feedback, or just want to connect, don't hesitate to reach out. I'm open to collaboration and always on the lookout for new opportunities.
+Feel free to explore my projects and repositories.
 
-Thanks for stopping by my profile, and let's ignite some sparks together! 
+Always open to good conversations around software, AI, automation, design, and building useful things.
